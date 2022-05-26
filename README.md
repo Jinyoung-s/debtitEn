@@ -14,3 +14,5 @@ This program has a following features
  - Recommending for good posts
  - Process for obtaining member points
  - writing a comment on the post
+
+Since it is a personal project and the development period is short, the contents of the unit test were excluded.
