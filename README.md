@@ -3,12 +3,15 @@
 This source is for personal project
 
 This program is made up of the following
-
-Java, Spring-boot, Vue.js, typescript, Mysql, JPA, etc..
+  - Spring-boot 2.6.6
+  - vue.js 2.0
+  - typescript
+  - CentOS
+  - Mysql
+  - JPA
+  - etc..
 
 This program has a following features
-
-Features
 
  - Sign up process using mail (includes google, facebook SSO sign up and login, Spring Security )
 
