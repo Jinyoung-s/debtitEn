@@ -25,6 +25,6 @@ This program has a following features
 Since it is a personal project and the development period is short, the contents of the unit test were excluded.
 
 
-url https://debthat.site/
+https://debthat.site/
 
 sojinyoung23@gmail.com
