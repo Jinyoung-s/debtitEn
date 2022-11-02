@@ -8,6 +8,8 @@ Java, Spring-boot, Vue.js, typescript, Mysql, JPA, etc..
 
 This program has a following features
 
+Features
+
  - Sign up process using mail (includes google, facebook SSO sign up and login, Spring Security )
 
  - Write, delete, modify a post (includes picture, embeded movies, making thumbnails)
