@@ -8,7 +8,7 @@ This program is made up of the following
   - typescript
   - CentOS
   - Mysql
-  - Elasticsearch -> removed(memory isuue - nedded at least 2G Memory)
+  - Elasticsearch -> removed(memory isuue - Requires at least 2G Memory)
   - JPA
   - Docker
   - etc..
