@@ -4,7 +4,7 @@ This source is for personal project
 
 This program is made up of the following
   - Spring-boot 2.6.6
-  - vue.js 2.0
+  - Vue.js 2.0
   - typescript
   - CentOS
   - Mysql
