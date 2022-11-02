@@ -8,7 +8,9 @@ This program is made up of the following
   - typescript
   - CentOS
   - Mysql
+  - Elasticsearch -> removed(memory isuue - nedded at least 2G Memory)
   - JPA
+  - Docker
   - etc..
 
 This program has a following features
