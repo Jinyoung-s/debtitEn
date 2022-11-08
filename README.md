@@ -1,6 +1,6 @@
 # debtitEn
 
-This source is for personal project
+This source is for a personal project
 
 This program is made up of the following
   - Spring-boot 2.6.6
