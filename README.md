@@ -19,9 +19,11 @@ This program has a following features
 
  - Write, delete, modify a post (includes picture, embeded movies, making thumbnails)
 
- - Chat with other people (Using Socket.js)
+ - Chat with other people in real time (Using Socket.js)
 
  - Sending a message to another mbmber
+ 
+ - Voting for debates
 
  - Recommending for good posts
 
